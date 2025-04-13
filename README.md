@@ -38,15 +38,15 @@ Press CTRL+C to quit
 
 | ![figure1](./figures/figure1.png) |
 | -------- | 
-| <center> Figure 1: Flask Application Web Interface <center> | 
+| <center> Figure 1: Flask Application Web Interface </center> | 
 
 | ![figure2](./figures/figure2.png) |
 | -------- | 
-| <center> Figure 2: Successful prediction in Flask Application <center> |
+| <center> Figure 2: Successful prediction in Flask Application </center> |
 
 | ![figure3](./figures/figure3.png) |
 | -------- | 
-| <center> Figure 3: An error Raised while uploading an invalid image <center> | 
+| <center> Figure 3: An error Raised while uploading an invalid image </center> | 
 
 
 ## Thank you!
