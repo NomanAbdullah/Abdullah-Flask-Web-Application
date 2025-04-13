@@ -16,6 +16,7 @@ $ python3 app.py
 
 **Sample console output:**
 
+<pre>
 ```!
 /home/abdullah/abdullah_flask_app ❯ python3 app.py                                               abdullahapp  22:18:33
  * Serving Flask app 'app'
@@ -27,6 +28,7 @@ Press CTRL+C to quit
  * Debugger is active!
  * Debugger PIN: 127-897-454
  ```
+ </pre>
  
  2. Access the webserver using `https://127.0.0.1:5000`
 
