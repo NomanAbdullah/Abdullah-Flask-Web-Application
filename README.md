@@ -9,7 +9,7 @@ This repository contains the deployment of ***Convolutional Neural Networks*** f
 
 ```!SHELL
 $ python3 -m venv abdullahapp
-$ source /abdullahapp/bin/activate
+$ source abdullahapp/bin/activate
 $ pip3 install -r requirements.txt
 $ python3 app.py
 ```
@@ -38,7 +38,15 @@ Press CTRL+C to quit
 
 | ![figure1](./figures/figure1.png) |
 | -------- | 
-| Figure 1: Flask Application Web Interface | 
+| <center> Figure 1: Flask Application Web Interface <center> | 
+
+| ![figure2](./figures/figure2.png) |
+| -------- | 
+| <center> Figure 2: Successful prediction in Flask Application <center> |
+
+| ![figure3](./figures/figure3.png) |
+| -------- | 
+| <center> Figure 3: An error Raised while uploading an invalid image <center> | 
 
 
 ## Thank you!
